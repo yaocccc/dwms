@@ -4,11 +4,11 @@
 
 尽量做到每一期视频对应一个commit
 
-## COMMIT
+## COMMIT 以及 关联视频
 
-1. 初始化 & 文档初始化
-2. 添加新布局
-3. 配置新窗口在栈的头部还是底部
+1. [初始化 & 文档初始化](https://www.bilibili.com/video/BV11U4y1i74t)
+2. [添加新布局grid 和 magicgrid](https://www.bilibili.com/video/BV1UU4y1Y7j1)
+3. [配置新窗口在栈的头部还是底部](https://www.bilibili.com/video/BV1gF411P7kA)
 
 ## DOC
 
