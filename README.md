@@ -6,9 +6,8 @@
 
 ## COMMIT 以及 关联视频
 
-1. [8eef7a4](https://github.com/yaocccc/dwms/commit/8eef7a4) - [初始化 & 文档初始化](https://www.bilibili.com/video/BV11U4y1i74t)
-2. [ebfa340](https://github.com/yaocccc/dwms/commit/ebfa340) - [添加新布局grid 和 magicgrid](https://www.bilibili.com/video/BV1UU4y1Y7j1)
-3. [配置新窗口在栈的头部还是底部](https://www.bilibili.com/video/BV1gF411P7kA)
+1. [1.1](https://github.com/yaocccc/dwms/tree/1.1) - [添加新布局grid 和 magicgrid](https://www.bilibili.com/video/BV1UU4y1Y7j1)
+2. [1.2](https://github.com/yaocccc/dwms/tree/1.2) - [配置新窗口在栈的头部还是底部](https://www.bilibili.com/video/BV1gF411P7kA)
 
 ## DOC
 
