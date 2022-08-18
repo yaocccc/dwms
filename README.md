@@ -8,6 +8,7 @@
 
 1. [1.1](https://github.com/yaocccc/dwms/tree/1.1) - [添加新布局grid 和 magicgrid](https://www.bilibili.com/video/BV1UU4y1Y7j1)
 2. [1.2](https://github.com/yaocccc/dwms/tree/1.2) - [配置新窗口在栈的头部还是底部](https://www.bilibili.com/video/BV1gF411P7kA)
+3. [1.3](https://github.com/yaocccc/dwms/tree/1.3) - [实现overview](https://www.bilibili.com/video/BV11U4y1r7YU)
 
 ## DOC
 
